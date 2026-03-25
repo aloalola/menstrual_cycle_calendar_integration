@@ -36,3 +36,6 @@ You can very easily change the name of your cycle tracker in your code (line 70 
 
 ## Cycle Phase Length 
 The current length of the cycle phases is fixed for menstruation, follicular phase, and ovulation, and then the remaining days "filled up" with luteal days up until the next cycle start. If you have a shorter cycle than 30 days, this might not be fully accurate. Maybe you know from your experience how long your menstruation usually lasts and when you roughly ovulate. You can simply adapt this in the code as well (line 72 to 75). It's super easy, trust me! 
+
+## Using this somewhere else 
+Yes, you could use this in Visual Studio Code as well, however, it is less techie if you do it in Drive and Apps Script, simply because it's probably more intuitive for you. 
